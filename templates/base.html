@@ -29,7 +29,7 @@
     {% block extra_js %}
     {% endblock %}
 
-    <title>Swahili Bob Tattoo!{% block extra_title %}{% endblock %}</title>
+    <title>Swahili Bob Tattoo! {% block extra_title %}{% endblock %}</title>
   </head>
   <body>
     <header class="container-fluid fixed-top"></header>
@@ -38,7 +38,7 @@
         <div class="message-container"></div>
     {% endif %}
 
-    {% block_page_header %}
+    {% block page_header %}
     {% endblock %}
 
     {% block content %}
@@ -47,6 +47,6 @@
     {% block postloadjs %}
     {% endblock %}
 
-    
+
   </body>
 </html>
