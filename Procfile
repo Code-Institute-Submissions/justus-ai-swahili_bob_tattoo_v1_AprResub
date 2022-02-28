@@ -1,0 +1,1 @@
+web: gunicorn swahili_bob_tattoo.wsgi:application
