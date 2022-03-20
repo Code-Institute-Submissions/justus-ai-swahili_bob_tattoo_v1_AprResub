@@ -1,19 +1,16 @@
 # SWAHILI BOB TATTOO
 View the project live here : https://swahili-bob-tattoo.herokuapp.com/
 
-It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
+It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
 Below is a screenshot of thewe bsite on full screen and on mobile size screen-
 ![image](https://user-images.githubusercontent.com/83753891/159144327-9898e118-ee4b-43c1-aa3b-b07a5f48c160.png
 On the smaller screens , with the hamburger icon, a user can further click o the icons for a dropdown of the same same cons as the navbar and all the infrmation pushed down to reveal furthr categories of the of the products.
 ![image](https://user-images.githubusercontent.com/83753891/159144787-7769bf31-ed42-4dc1-b32a-1bc6a79ff5a6.png)
 
-
-
-
 ##  User Experience (UX)
 ### User stories
 First Time Visitor Goals
-As a First Time Visitor,should be immediately be able to see that the webste services are not just limited to tattoos.Thw use of th words all products , gives a sense of there is more than what wha the name suggests.
+As a First Time Visitor,should be immediately be able to see that the website services are not just limited to tattoos.The use of the words all products , gives a sense that there is more  prodcuts than the name suggests.
 As a First Time Visitor, I want the user to be  able to easily navigate throughout the site to find content.this is with the help of the search box at the top of the page, with the use of the friedly name shirt in my search box, all products with the name shirt in it shop up in the list so the user can have avsiual on which of these items amonst my collection , they would prefer:
 ![image](https://user-images.githubusercontent.com/83753891/159145854-3192dd03-ebb2-45a8-8ba8-0eb486ca7796.png)
 an addtion to the feaures, is the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of the stars :
@@ -21,24 +18,23 @@ an addtion to the feaures, is the ability to choose items according to their siz
 
 ![image](https://user-images.githubusercontent.com/83753891/159145941-8fe1e84a-b855-4569-9017-9fa08ee360dd.png)
 
-For every page that the user scrolls , whether on lrge screen or small screen, ss soon as you get to the botom there s a narrow pointing upwrd to the top ,to ease ux:
+For every page that the user scrolls , whether on large screen or small screen, as soon as you get to the bottom there is an arrow pointing upawrd ,to enhance ux:
 ![image](https://user-images.githubusercontent.com/83753891/159146774-06f1660e-b2e9-4497-9cb2-370a792c221b.png)
 
-Hopefully the user will be willing to register and be able to have an easier time adding their confirming  after they make a purchase in the store.The sign up details below can be saved and
+Hopefully the user will be willing to register and be able to have an easier time adding their details by just confirmingthem  after they make a purchase in the online store.The sign up details below can be saved and reused when the same use logs in again:
 ![image](https://user-images.githubusercontent.com/83753891/159144532-89af8ac2-09ab-4614-9e1f-8f6f610ed07f.png)
  if the user registers with a preexisting username or email, an error message will be displayed and the input boxes turn red , therefore informing the user thtat they have to enter a new , unique set of details as shown below:
  ![image](https://user-images.githubusercontent.com/83753891/159144724-4b1038ae-4c96-42ba-864e-1452983ecedc.png)
- when Making purchas as suggested by the information banner below the navbar, all purchases over 50 dollars won't be charged a delivery fee.This is further highlighted whene the user gets to the checkout box using a highlight yellow alert that shows the balance left before making it to the 50 dollar mark to encourage the shoppers to go back aad add to their shopping bag:
+ When Making purchases as suggested by the information banner below the navbar, all purchases over 50 dollars won't be charged a delivery fee.This is further highlighted when the user gets to the checkout box using a highlight yellow alert that shows the balance left before making it to the 50 dollar mark to encourage the shoppers to go back add to their shopping bag:
  ![image](https://user-images.githubusercontent.com/83753891/159145170-a86362c0-3492-4495-a8f7-9f54561d4530.png)
 Once the value spent in the shopping bag is higher than 50 dollars , the yellow highled box dissapears:
 ![image](https://user-images.githubusercontent.com/83753891/159145331-f4a7586c-02b6-433f-95e2-deddf02f9640.png)
 
- 
 
 on the secure checkout page, there is more details to fill in so that your product/s is delivered to the customers choice of adress:
 ![image](https://user-images.githubusercontent.com/83753891/159145441-22c1f6ca-c3a8-463a-a140-f0ec9860175a.png)
 
-The country to be delivered to is however a dropdown list that you have to clcik on instead of entering the letters:
+The country to be delivered to is however a dropdown list that you have to click on instead of entering the letters:
 ![image](https://user-images.githubusercontent.com/83753891/159145479-0f821c39-fd5a-44e9-ba49-f09a8e50417e.png)
 The card details must be valid otherwise the transaction does not go through:
 ![image](https://user-images.githubusercontent.com/83753891/159145528-e5482056-e180-448d-92ac-8846f14a9fff.png)
@@ -53,7 +49,7 @@ Alongside with a confirmation email to the email registered to the account:
 
 
 ### Returning Visitor Goals
-on signing in as a returning visitor , there is a welcoming message as shown below highlighted with a green underline:
+On signing in as a returning visitor , there is a welcoming message as shown below highlighted with a green underline:
 ![image](https://user-images.githubusercontent.com/83753891/159144875-f7c1ec62-dcfa-4233-8cf3-6da96f954bde.png)
 
 As a return user , you can also be able to see previous orders, when you click on your profile:
@@ -73,7 +69,7 @@ As a Returning Visitor, all payment details are saved for you convenience to eas
 ### Colour Scheme
 The two main colors to swahili bob are white and black.
 ### Imagery
- The large, background tattooed lady image is designed to be striking and catch the user's attention. It also has a modern shadow effect that , makes the visitors curious.I got the image from unsplash at https://unsplash.com/images/things/tattoo
+ The large, background tattooed lady image is designed to be striking and catch the user's attention. It also has a modern shadow effect that makes the visitors curious.I got the image from unsplash at https://unsplash.com/images/things/tattoo
 
 
 ### Features
