@@ -180,15 +180,13 @@ Images from all products  were from , www.unsplash.com,
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
 
-Content
+##Content
 All content was written by the developer under the close guidnce of the code initute tutors which i followed along during the making of the boutique ado website
 
 
-
-Media
-All Images were created by the developer.
+## Media
+All Images were created by the developer and from unsplush free images website www.unsplush.com
 Acknowledgements
 My Mentor for continuous helpful feedback.
 
