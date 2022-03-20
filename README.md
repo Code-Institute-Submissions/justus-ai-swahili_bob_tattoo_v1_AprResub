@@ -3,7 +3,8 @@ View the project live here : https://swahili-bob-tattoo.herokuapp.com/
 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
 Below is a screenshot of thewe bsite on full screen and on mobile size screen-
-![image](https://user-images.githubusercontent.com/83753891/159144327-9898e118-ee4b-43c1-aa3b-b07a5f48c160.png
+![image](https://user-images.githubusercontent.com/83753891/159147466-05c3dc86-4e58-4d87-93e9-b43b44ac43c4.png)
+
 On the smaller screens , with the hamburger icon, a user can further click o the icons for a dropdown of the same same cons as the navbar and all the infrmation pushed down to reveal furthr categories of the of the products.
 ![image](https://user-images.githubusercontent.com/83753891/159144787-7769bf31-ed42-4dc1-b32a-1bc6a79ff5a6.png)
 
