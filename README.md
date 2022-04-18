@@ -1,20 +1,21 @@
 # SWAHILI BOB TATTOO
 View the project live here : https://swahili-bob-tattoo.herokuapp.com/
-
+This website is an online store that primarily deals with tattoos of different kinds.The website categorieses the different types of tatttoos to as close a version of a commodity as possible.Understandably tatttoos are hard to class as they are unique to each individual, but with the pictorial dispaly of previously done tattoos , the website tries to make the task of choice easier.
+There is also other products such as piercings and merchandise that go along with the brand as part of the swahili bob business for those who are interested in more than just the tatttoos.
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
-Below is a screenshot of thewe bsite on full screen and on mobile size screen-
+Below is a screenshot of the website on full screen and on mobile size screen-
 ![image](https://user-images.githubusercontent.com/83753891/159147466-05c3dc86-4e58-4d87-93e9-b43b44ac43c4.png)
 
 On the smaller screens , with the hamburger icon, a user can further click o the icons for a dropdown of the same same cons as the navbar and all the infrmation pushed down to reveal furthr categories of the of the products.
 ![image](https://user-images.githubusercontent.com/83753891/159144787-7769bf31-ed42-4dc1-b32a-1bc6a79ff5a6.png)
 
 ##  User Experience (UX)
-### User stories
 First Time Visitor Goals
-As a First Time Visitor,should be immediately be able to see that the website services are not just limited to tattoos.The use of the words all products , gives a sense that there is more  prodcuts than the name suggests.
-As a First Time Visitor, I want the user to be  able to easily navigate throughout the site to find content.this is with the help of the search box at the top of the page, with the use of the friedly name shirt in my search box, all products with the name shirt in it shop up in the list so the user can have avsiual on which of these items amonst my collection , they would prefer:
+1. As a First Time Visitor,should be immediately be able to see that the website services are not just limited to tattoos.The use of the words all products , broadens the spectrum of items to choose from outside of tattoos.
+2. A call to action in bold to get your tattoo [](https://swahili-bob-tattoo.herokuapp.com/) now shows where one other click can direct you to the body of prodcuts avalaible in the tattoo store.
+3. As a First Time Visitor , the search box at the top of the page, helps the new user find a correlating word to match his/hers word entered ,that way narrowing down their search instead og going through the whole product list.
 ![image](https://user-images.githubusercontent.com/83753891/159145854-3192dd03-ebb2-45a8-8ba8-0eb486ca7796.png)
-an addtion to the feaures, is the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of the stars :
+4. , is the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of the stars :
 ![image](https://user-images.githubusercontent.com/83753891/159145958-721bf7bc-41b5-4b3d-b72c-87050defc922.png)
 
 ![image](https://user-images.githubusercontent.com/83753891/159145941-8fe1e84a-b855-4569-9017-9fa08ee360dd.png)
