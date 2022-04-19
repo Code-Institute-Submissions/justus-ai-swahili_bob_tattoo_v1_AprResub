@@ -6,10 +6,12 @@ This website is an online store that primarily deals with tattoos of different k
 There is also other products such as piercings and merchandise that go along with the brand as part of the swahili bob business for those who are interested in more than just the tatttoos.
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
 Below is a screenshot of the website on full screen and on mobile size screen-
-![image](https://user-images.githubusercontent.com/83753891/159147466-05c3dc86-4e58-4d87-93e9-b43b44ac43c4.png)
+![image](https://user-images.githubusercontent.com/83753891/163916793-90d9a4c1-6ed2-4d78-88b0-f22a121627a4.png)
+The website is responsive and with the help  of the hamburger icon that replaces the navbar for small screens, it looks as shown below:
+![image](https://user-images.githubusercontent.com/83753891/163917348-ee266048-5d34-422c-aa13-c719a6d76596.png) 
+On clicking the humburger icon , the navbar cascades downwards to reveal the navbar with the same functions as the full screen navbar:
+![image](https://user-images.githubusercontent.com/83753891/163917645-1d07cc9b-f105-470f-831d-01ad9fc9f279.png)
 
-On the smaller screens , with the hamburger icon, a user can further click o the icons for a dropdown of the same same cons as the navbar and all the infrmation pushed down to reveal furthr categories of the of the products.
-![image](https://user-images.githubusercontent.com/83753891/159144787-7769bf31-ed42-4dc1-b32a-1bc6a79ff5a6.png)
 
 ##  User Experience (UX)
 First Time Visitor Goals
