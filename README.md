@@ -19,12 +19,12 @@ First Time Visitor Goals
 2. A call to action in bold to get your tattoo [](https://swahili-bob-tattoo.herokuapp.com/) now shows where one other click can direct you to the body of prodcuts avalaible in the tattoo store.
 3. As a First Time Visitor , the search box at the top of the page, helps the new user find a correlating word to match his/hers word entered ,that way narrowing down their search instead og going through the whole product list.
 ![image](https://user-images.githubusercontent.com/83753891/159145854-3192dd03-ebb2-45a8-8ba8-0eb486ca7796.png)
-4. , is the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of the stars :
+4.Furthermore the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of how many stars  they got  as shown in the printscreen below:
 ![image](https://user-images.githubusercontent.com/83753891/159145958-721bf7bc-41b5-4b3d-b72c-87050defc922.png)
 
 ![image](https://user-images.githubusercontent.com/83753891/159145941-8fe1e84a-b855-4569-9017-9fa08ee360dd.png)
 
-For every page that the user scrolls , whether on large screen or small screen, as soon as you get to the bottom there is an arrow pointing upawrd ,to enhance ux:
+5. For every page that the user scrolls , whether on large screen or small screen, as soon as you get to the bottom there is an arrow pointing upward to navigate the user back to the top of the page intead of scrolling upwards all over again ,to enhance ux:
 ![image](https://user-images.githubusercontent.com/83753891/159146774-06f1660e-b2e9-4497-9cb2-370a792c221b.png)
 
 Hopefully the user will be willing to register and be able to have an easier time adding their details by just confirmingthem  after they make a purchase in the online store.The sign up details below can be saved and reused when the same use logs in again:
