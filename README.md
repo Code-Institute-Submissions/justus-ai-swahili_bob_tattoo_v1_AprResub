@@ -19,55 +19,57 @@ First Time Visitor Goals
 2. A call to action in bold to get your tattoo [](https://swahili-bob-tattoo.herokuapp.com/) now shows where one other click can direct you to the body of prodcuts avalaible in the tattoo store.
 3. As a First Time Visitor , the search box at the top of the page, helps the new user find a correlating word to match his/hers word entered ,that way narrowing down their search instead og going through the whole product list.
 ![image](https://user-images.githubusercontent.com/83753891/159145854-3192dd03-ebb2-45a8-8ba8-0eb486ca7796.png)
-4.Furthermore the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of how many stars  they got  as shown in the printscreen below:
+4. Furthermore the ability to choose items according to their sizes ,in ascending , descending of price and according to the value of how many stars  they got  as shown in the printscreen below:
 ![image](https://user-images.githubusercontent.com/83753891/159145958-721bf7bc-41b5-4b3d-b72c-87050defc922.png)
 
 ![image](https://user-images.githubusercontent.com/83753891/159145941-8fe1e84a-b855-4569-9017-9fa08ee360dd.png)
 
 5. For every page that the user scrolls , whether on large screen or small screen, as soon as you get to the bottom there is an arrow pointing upward to navigate the user back to the top of the page intead of scrolling upwards all over again ,to enhance ux:
 ![image](https://user-images.githubusercontent.com/83753891/159146774-06f1660e-b2e9-4497-9cb2-370a792c221b.png)
+6. the shopping bag , has the option to add and  remove items, whenever the customer decided to change the contents  in their respective shopping bags.This is with the help of an green text add button and red text remove button.
+7. When the user is done with thier shoppoing there is a summarry of all prodcuts , they would have chosen i their shopping bag as well as the total for them to be able to see al their purchases.
 
-Hopefully the user will be willing to register and be able to have an easier time adding their details by just confirmingthem  after they make a purchase in the online store.The sign up details below can be saved and reused when the same use logs in again:
+8. Hopefully the user will be willing to register and be able to have an easier process auto adding their details for their next visit to my website by just confirming their details  after they make a purchase in the online store.The sign up details below can be saved and reused when the same user logs in again:
 ![image](https://user-images.githubusercontent.com/83753891/159144532-89af8ac2-09ab-4614-9e1f-8f6f610ed07f.png)
- if the user registers with a preexisting username or email, an error message will be displayed and the input boxes turn red , therefore informing the user thtat they have to enter a new , unique set of details as shown below:
+ 9. if the user registers with a preexisting username or email, an error message will be displayed and the input boxes turn red , therefore informing the user thtat they have to enter a new , unique set of details as shown below:
  ![image](https://user-images.githubusercontent.com/83753891/159144724-4b1038ae-4c96-42ba-864e-1452983ecedc.png)
- When Making purchases as suggested by the information banner below the navbar, all purchases over 50 dollars won't be charged a delivery fee.This is further highlighted when the user gets to the checkout box using a highlight yellow alert that shows the balance left before making it to the 50 dollar mark to encourage the shoppers to go back add to their shopping bag:
+ 10. When Making purchases as suggested by the information banner below the navbar, all purchases over 50 dollars won't be charged a delivery fee.This is further highlighted when the user gets to the checkout box using a highlight yellow alert that shows the balance left before making it to the 50 dollar mark to encourage the shoppers to go back add to their shopping bag:
  ![image](https://user-images.githubusercontent.com/83753891/159145170-a86362c0-3492-4495-a8f7-9f54561d4530.png)
-Once the value spent in the shopping bag is higher than 50 dollars , the yellow highled box dissapears:
+11. Once the value spent in the shopping bag is higher than 50 dollars , the yellow highlighted box dissapears:
 ![image](https://user-images.githubusercontent.com/83753891/159145331-f4a7586c-02b6-433f-95e2-deddf02f9640.png)
 
 
-on the secure checkout page, there is more details to fill in so that your product/s is delivered to the customers choice of adress:
+12. On the secure checkout page, there is more details to fill in so that your product/s is delivered to the customers choice of adress:
 ![image](https://user-images.githubusercontent.com/83753891/159145441-22c1f6ca-c3a8-463a-a140-f0ec9860175a.png)
 
-The country to be delivered to is however a dropdown list that you have to click on instead of entering the letters:
+13. The country to be delivered to is however a dropdown list that you have to click on instead of entering the letters:
 ![image](https://user-images.githubusercontent.com/83753891/159145479-0f821c39-fd5a-44e9-ba49-f09a8e50417e.png)
-The card details must be valid otherwise the transaction does not go through:
+14. The card details must be valid otherwise the transaction does not go through:
 ![image](https://user-images.githubusercontent.com/83753891/159145528-e5482056-e180-448d-92ac-8846f14a9fff.png)
-In the case that the card details are valid, then the transaction details will connected to stripe,a payment authentification function that confirms that the payment has gone through: 
+15. In the case that the card details are valid, then the transaction details will connected to stripe,a payment authentification function that confirms that the payment has gone through: 
 ![image](https://user-images.githubusercontent.com/83753891/159145616-b15d1c6c-a0b8-45da-843b-eefcd281d339.png)
-After which the payment redirects to the follwing page, showing that the payment was a sucess:
+16. After which the payment redirects to the follwing page, showing that the payment was a success:
 ![image](https://user-images.githubusercontent.com/83753891/159145655-8bc680fa-d234-4221-8e93-7e9bb31929b5.png)
-For the admininstrator ,a message on my stripe account showing that a payment has been succesfully made is shown with 200 message :
+17. For the admininstrator ,a message on my stripe account showing that a payment has been succesfully made is shown with 200 message :
 ![image](https://user-images.githubusercontent.com/83753891/159145689-29685373-b1c8-4630-aa3f-21dda2edb21c.png)
-Alongside with a confirmation email to the email registered to the account:
+18. Alongside with a confirmation email to the email registered to the account:
 ![image](https://user-images.githubusercontent.com/83753891/159145781-61b45287-9ead-44b2-a3aa-d8d9ca09840d.png)
 
 
 ### Returning Visitor Goals
-On signing in as a returning visitor , there is a welcoming message as shown below highlighted with a green underline:
+1. On signing in as a returning visitor , there is a welcoming message as shown below highlighted with a green underline:
 ![image](https://user-images.githubusercontent.com/83753891/159144875-f7c1ec62-dcfa-4233-8cf3-6da96f954bde.png)
 
-As a return user , you can also be able to see previous orders, when you click on your profile:
+2. As a return user , you can also be able to see previous orders, when you click on your profile:
 ![image](https://user-images.githubusercontent.com/83753891/159144933-f093dfa9-508d-451b-ba63-54b49605e07d.png)
 
 ### Adminstrator 
-As a superuser, the stow owner and the website designer have the uque accesst of admnistrator tat allows for one to be able to edit , delete product:
+1. As a superuser, the store owner and the website designer have the unique access of admnistrator that allows for one to be able to edit , delete product:
 ![image](https://user-images.githubusercontent.com/83753891/159146839-e5b18abb-8b14-47fd-b9e1-2c3085b9d0df.png)
-also the ability to add image , add product  edit product detail and edit content by clicking on te the product management function that only appears for superusers:
+2. Also the ability to add image , add product  edit product detail and edit content by clicking on te the product management function that only appears for superusers:
 ![image](https://user-images.githubusercontent.com/83753891/159146881-f66d6bbb-b022-4adf-938d-86e8a443496b.png)
 ![image](https://user-images.githubusercontent.com/83753891/159146940-7af3821f-3e26-4221-80d7-50b841e827b2.png)
-This proprty is otherwise unavailable for other users that sign in
+This feature is otherwise unavailable for other users that sign in
 
 
 As a Returning Visitor, all payment details are saved for you convenience to ease the task of entering yor details repeatedly unless you as a user want to edit your payment details .
