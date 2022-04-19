@@ -1,5 +1,7 @@
 # SWAHILI BOB TATTOO
 View the project live here : https://swahili-bob-tattoo.herokuapp.com/
+
+
 This website is an online store that primarily deals with tattoos of different kinds.The website categorieses the different types of tatttoos to as close a version of a commodity as possible.Understandably tatttoos are hard to class as they are unique to each individual, but with the pictorial dispaly of previously done tattoos , the website tries to make the task of choice easier.
 There is also other products such as piercings and merchandise that go along with the brand as part of the swahili bob business for those who are interested in more than just the tatttoos.
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and existing customers.
@@ -176,7 +178,7 @@ I would also like to fully authenticate the app so it can actually be able to re
 
 ## Credits
 Code
-Code was mostly from the code institute boutique ado project guiding videos and my seolf.
+Code was mostly from the code institute boutique ado project guiding videos and my self.
 Images from all products  were from , www.unsplash.com, 
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
