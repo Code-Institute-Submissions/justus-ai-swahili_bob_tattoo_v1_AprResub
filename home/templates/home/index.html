@@ -20,26 +20,23 @@
                     <h4>
                         <a href="{% url 'products' %}" class="shop-now-button btn btn-lg rounded-0 text-uppercase py-3">Get Your Tattoo Now</a>
                     </h4>
+                    <h4>
+                        <div class="col-lg-6 col-md-6" style="margin: 100px auto; display: block;">
+                            <form enctype="multipart/form-data" method="POST" action="" style="text-align: center;">
+                                {% csrf_token %}
+                                <div class="form-group">
+                        <a  class="btn btn-lg rounded-0 text-uppercase py-3">Subscribe to our Newsletter.</a>
+                             <input type="email" class="form-control" id="userEmail" placeholder="Enter email" required>
+                               <small style="font-weight: 600;color: red;" class="error"></small>
+                               <input type="text" class="form-control mt-2" id="userName" placeholder="Enter name" required>
+                             <small style="font-weight: 600;color: green;" class="success"></small>
+                         </div>
+                       <input type="submit" value="Subscribe" id="submit" class="btn">     
+                   </form>
+                    </h4>
                 </div>
                 
             </div>
         </div>
     </div>
-{% endblock %}
-{% block content %}
-<h4  class="display-4 logo-font text-white">
-<div class="col-lg-6 col-md-6" style="margin: 100px auto; display: block;">
-    <form enctype="multipart/form-data" method="POST" action="" style="text-align: center;">
-        {% csrf_token %}
-        <div class="form-group">
-            <label>Subscribe to our Newsletter.</label>
-            <input type="email" class="form-control" id="userEmail" placeholder="Enter email" required>
-            <small style="font-weight: 600;color: red;" class="error"></small>
-            <input type="text" class="form-control mt-2" id="userName" placeholder="Enter name" required>
-            <small style="font-weight: 600;color: green;" class="success"></small>
-        </div>
-        <input type="submit" value="Subscribe" id="submit" class="btn">     
-    </form>
-</div>
-</h4>
 {% endblock %}
