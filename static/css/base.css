@@ -271,11 +271,13 @@ label {
 
 .btn {
     padding: 7px 21px;
-    background-color: rgb(231, 77, 77);
+    background-color: rgb(112, 110, 110);
     color: white;
     font-size: 18px;
 }
-
+body {
+    background-color: rgb(249, 253, 253);
+}
 
 
 

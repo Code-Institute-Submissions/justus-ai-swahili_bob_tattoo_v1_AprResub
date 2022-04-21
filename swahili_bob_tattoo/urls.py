@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
+from . import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -26,4 +27,6 @@ urlpatterns = [
     path('bag/', include('bag.urls')),
     path('checkout/', include('checkout.urls')),
     path('profile/', include('profiles.urls')),
+    path('newsletter/', views.index, name='index'),
+    path('validate/', views.validate_email, name='validate_email'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
