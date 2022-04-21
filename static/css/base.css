@@ -271,14 +271,12 @@ label {
 
 .btn {
     padding: 7px 21px;
-    background-color: rgb(143, 1, 1);
+    background-color: rgb(231, 77, 77);
     color: white;
     font-size: 18px;
 }
 
-body {
-    background-color: azure;
-}
+
 
 
 /* fixed top navbar only on medium and up */
