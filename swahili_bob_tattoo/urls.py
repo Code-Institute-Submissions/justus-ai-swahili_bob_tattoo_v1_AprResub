@@ -17,7 +17,8 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
-from . import views
+from home.views import index
+from profiles.views import validate_email
 
 urlpatterns = [
     path('admin/', admin.site.urls),
