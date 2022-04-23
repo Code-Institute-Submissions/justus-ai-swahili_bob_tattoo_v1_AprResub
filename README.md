@@ -63,6 +63,10 @@ First Time Visitor Goals
 2. As a return user , you can also be able to see previous orders, when you click on your profile:
 ![image](https://user-images.githubusercontent.com/83753891/159144933-f093dfa9-508d-451b-ba63-54b49605e07d.png)
 
+3.The addition of a newsletter to keep the subscribing customers aware of our upcoming products, launches and sales.This was very difficult adding at the end , but it finally worked :
+![image](https://user-images.githubusercontent.com/83753891/164888282-f9d92973-7dc6-4eb8-8943-40fba602ae27.png)
+
+
 ### Adminstrator 
 1. As a superuser, the store owner and the website designer have the unique access of admnistrator that allows for one to be able to edit , delete product:
 ![image](https://user-images.githubusercontent.com/83753891/159146839-e5b18abb-8b14-47fd-b9e1-2c3085b9d0df.png)
@@ -113,44 +117,11 @@ W3C html  Validator - Results: https://validator.w3.org/nu/?doc=https%3A%2F%2Fsw
 
 
 
-Returning Visitor Goals
-As a Returning Visitor, I want to find the new programming challenges or hackathons.
+## Returning Visitor Goals
+To be able to keep the website images of the latest tattooos at the forfront , like adding a whats new button .
 
-These are clearly shown in the banner message.
-They will be directed to a page with another hero image and call to action.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-The navigation bar clearly highlights the "Contact Us" Page.
-Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-
-The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-
-The user would already be comfortable with the website layout and can easily click the banner message.
-As a Frequent User, I want to check to see if there are any new blog posts.
-
-The user would already be comfortable with the website layout and can easily click the blog link
-As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-
-At the bottom of every page their is a footer which content is consistent throughout all pages.
-To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
-Further Testing
-The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-A large amount of testing was done to ensure that all pages were linking correctly.
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-Known Bugs
-On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-A white gap can be seen to the right of the footer and navigation bar as a result.
-On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+## Known Bugs
+I struggled with editing the size of the newsletter for it to fit without hanging put of the screen.
 ## Deployment
 This Project was deployed to Heroku using the following steps, first i installed heroku from www.heroku.com and followed the following steps:
 
@@ -184,6 +155,7 @@ I would also like to fully authenticate the app so it can actually be able to re
 Code
 Code was mostly from the code institute boutique ado project guiding videos and my self.
 Images from all products  were from , www.unsplash.com, 
+Code for the newsletter is from dev.to/shubhamkshatriya25/how-to-build-a-email-newsletter-subscriber-in-django-j2p
 
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
